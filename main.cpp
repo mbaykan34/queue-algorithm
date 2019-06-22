@@ -128,6 +128,7 @@ int main()
  * kapasitesi daha önceden tanımlanır.
  * Sıralıdır. Aynı tip verilerden oluşur.
  * Bu algoritma array'den oluşturulmuştur.
+ * İlk giren eleman ilk çıkar. FIFO
  * üye fonksiyonlar: enqueue(): tail'e yeni eleman ekler. dequeue():head'den eleman çıkarır.
  * Algoritmanın işleyişi:
  * --Yeni eleman eklendiğinde tail'e eklenir...tail ileriye doğru kaydırılır.
